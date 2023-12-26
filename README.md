@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu Chavan</h1>
-<h2 align="center">A Full Stack Web Developer!</h2>
+<h2 align="center">A Computer Science Student</h2>
 <img align="center" alt="Coding" width="900" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
 <br>
 

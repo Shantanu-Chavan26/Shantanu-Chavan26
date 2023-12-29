@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-chavan26&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu-chavan26" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Development , Devops**
 
-- 💬 Ask me about **html, css, Java, Javascript**
+- 💬 Ask me about **Web development , devops toolst**
 
 - 📫 How to reach me **s.chaaavan26@gmail.com**
 

@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web development , devops toolst**
 
-- 📫 How to reach me **s.chaaavan26@gmail.com**
+- 📫 How to reach me **shantanuchavan2603@gmail.com**
 
 - ⚡ Fun fact **I am inquisitive**
 

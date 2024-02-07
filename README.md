@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Development , Devops**
 
-- 💬 Ask me about **Web development , devops toolst**
+- 💬 Ask me about **Web development , devops tools**
 
 - 📫 How to reach me **shantanuchavan2603@gmail.com**
 
